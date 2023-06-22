@@ -1,6 +1,8 @@
 # QuestProFA
 A Modular Accessory System for the Quest Pro
 
+![alt text](https://github.com/CucumberWorks/QuestProFA/blob/main/images/5B2E0A0C-D935-426D-9662-13249BD7CAEF.png)
+
 # Introduction
 This is a modular accesory system that aims to solve ergonomics issues of the Quest Pro.
 
