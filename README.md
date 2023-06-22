@@ -67,3 +67,12 @@ This also extends the battery life of the Quest Pro with the BoboVR B2 battery d
 This is totally unnecessary and very experimental. Running the fans at full speed drains the Quest Pro's internal battery, and it is recommended to have the BoboVR battery always connected. This will add addtional weight to the system.
 A USB-C splitter for Android phone is need to split the single USB port on the Quest Pro for charging and power delivery to the fans. The fans are controlled through a fan controller. You will need to either source or build the controller yourself.
 
+# Tips for 3D Printed
+
+Most of the parts are designed in a way that optimizes part strength and support usage. The main parts including TopStrapL.stl, TopStrapR.stl, TrackerL.stl and Brace.stl are designed so that they do not require any support.
+
+You can refer to the image below for recommended part orientation.
+
+PLA is sufficient and infill density >40% is reccomended.
+
+![alt text](https://github.com/CucumberWorks/QuestProFA/blob/main/images/AF087A15-AF5D-4981-A6C2-B73DA98AC949.png)
